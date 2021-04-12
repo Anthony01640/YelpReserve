@@ -1,24 +1,20 @@
 # vue-eat
 
-## Project setup
+### Configure le projet
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Lance le projet
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile le projet
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
+### Configuration personnalisé
 See [Configuration Reference](https://cli.vuejs.org/config/).
